@@ -1,0 +1,172 @@
+header {
+	background-color: white;
+	height: 50px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 50;
+}
+.logo {
+	width: 38px;
+	display: inline-block;
+}
+.logo1 {
+	display: inline-block;
+	vertical-align: top;
+	padding-top: 18px;
+	padding-left: 20px;
+}
+nav {
+	display: inline-block;
+	vertical-align: top;
+	padding-left: 92px;
+	padding-top: 20px;
+}
+li {
+	display: inline-block;
+	font-size: 11px;
+}
+.home {
+	color: #343638;
+	font-weight: bold;
+	padding-right: 27px;
+}
+.li {
+	color: #343638;
+	font-weight: 400;
+	font-weight: bold;
+	padding-right: 22px;
+}
+.girl{
+	display: inline-block;
+	vertical-align: top;
+	padding-left: 18px;
+	padding-top: 11px;
+}
+
+/*სექცია 1*/
+
+.trend {
+	font-weight: bold;
+	color: #202124;
+	font-size: 24px;
+}
+.trending {
+	padding-left: 140px;
+}
+.image1 {
+	display: inline-block;
+	margin-top: 40px;
+	margin-left: 140px;
+}
+
+.image2{
+	display: inline-block;
+	margin-left: 40px;
+	margin-top: 40px;
+}
+.image3 {
+	display: inline-block;
+	margin-top: 40px;
+	margin-left: 40px;
+}
+.text-box1 {
+	position: relative;
+}
+.phar1 {
+	position: absolute;
+	font-size: 16px;
+	top: 28px;
+	left: 40px;
+	color: #FFFFFF;
+}
+.text-box2 {
+	position: relative;
+}
+.phar2 {
+	position: absolute;
+	font-size: 16px;
+	top: 28px;
+	left: 40px;
+	color: #ffffff;
+}
+.text-box3 {
+	position: relative;
+}
+.phar3 {
+	position: absolute;
+	font-size: 16px;
+	top: 28px;
+	left: 40px;
+	color: #ffffff;
+}
+.under-text1 {
+	width: 280px;
+	height: 38px;
+	margin-top: 66px;
+	margin-left: 40px;
+	margin-bottom: 66px;
+}
+.under-text2 {
+	width: 280px;
+	height: 38px;
+	margin-top: 66px;
+	margin-left: 40px;
+	margin-bottom: 66px;
+}
+.under-text3 {
+	width: 280px;
+	height: 38px;
+	margin-top: 66px;
+	margin-left: 40px;
+	margin-bottom: 66px;
+}
+
+/*სექცია 2*/
+.section {
+	display: inline-block;
+	margin-top: 58px;
+	margin-left: 140px;
+}
+.phara {
+	font-size: 24px;
+	font-weight: bold;
+	padding-bottom: 40px;
+}
+.text-box4 {
+	position: relative;
+	padding-bottom: 40px;
+}
+.phar4 {
+	position: absolute;
+	font-size: 16px;
+	top: 394px;
+	left: 569px;
+	color: #ffffff;
+}
+.main-div2 {
+	display: inline-block;
+}
+.main-div3 {
+	margin-top: 60px;
+	vertical-align: top;
+	display: inline-block;
+	margin-left: 40px;
+}
+.pic1 {
+	margin-bottom: 102px;
+}
+.pic2 {
+	margin-bottom: 102px;
+}
+.text-box5 {
+	position: relative;
+}
+.phar5 {
+	position: absolute;
+	color: #ffffff;
+	font-size: 16px;
+	top: 18px;
+	left: 40px;
+}
